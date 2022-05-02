@@ -1,0 +1,4 @@
+﻿  Tree.c
+C:\Users\user\OneDrive - 충북대학교\문서\algorithm\tree\Tree!\Tree.c(18,3): warning C4033: 'isend'은(는) 값을 반환해야 합니다.
+C:\Users\user\OneDrive - 충북대학교\문서\algorithm\tree\Tree!\Tree.c(21): warning C4716: 'isend': 값을 반환해야 합니다.
+  Tree!.vcxproj -> C:\Users\user\OneDrive - 충북대학교\문서\algorithm\tree\Tree!\Debug\Tree!.exe
